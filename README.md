@@ -24,7 +24,7 @@ Away from the keyboard: woodworking, 3D printing, fishing, and keeping up with a
 - ✍️ [I tried to make a small open model work like Jev](https://aliashter.substack.com/p/i-tried-to-make-a-small-open-model) (post)
 - 🧠 [SecondThought: think only when the tool call looks shaky](https://github.com/alleyxd/SecondThought) (paper + code)
 - 📐 [Does forcing JSON make models worse?](https://github.com/alleyxd/SchemaTax) (paper + code)
-- ⚡ [Decisions in one forward pass](https://github.com/alleyxd/AnyDecide) (paper + code)
+- ⚡ [Decisions in one forward pass](https://doi.org/10.5281/zenodo.23555119) (paper + [code](https://github.com/alleyxd/AnyDecide))
 
 I also send fixes to open-source tools I use, and keep a few curated lists:
 [LLM evals](https://github.com/alleyxd/awesome-llm-evals),
